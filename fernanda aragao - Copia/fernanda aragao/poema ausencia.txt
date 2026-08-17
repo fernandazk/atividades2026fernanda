@@ -1,0 +1,24 @@
+
+<!DOCTYPE>
+<html>
+<head>
+ <title>Poema</title> 
+</head>
+<body>
+ <h1>Ausência</h1>
+<p>Por muito tempo achei que a ausência é falta.</p>
+<p>E lastimava, ignorante, a falta.</p>
+<p>Hoje não a lastimo.<p/>
+<p>Não há falta na ausência.<p/> 
+<p>A ausência é um estar em mim.<p/>
+<p>E sinto-a, branca, tao pegada, aconchegada nos meus braços,<p/>
+<p>que rio e danço e invento exclamações alegres,<p/>
+<p>porque a ausência, essa ausência assimiladas,<p/>
+<p>ninguém rouba mais de mim.<p/>
+ Carlos Drummond de Andrade</p>
+</body>
+</html>
+
+
+
+
